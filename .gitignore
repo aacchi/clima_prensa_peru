@@ -1,0 +1,21 @@
+# Entorno virtual
+venv/
+
+# Datos (pesados, no se suben)
+data/raw/
+data/staging/
+data/db/
+data/external/
+data/logs/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/

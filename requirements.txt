@@ -1,0 +1,6 @@
+requests
+pandas
+lxml
+pyarrow
+gdeltdoc
+beautifulsoup4
